@@ -2,9 +2,8 @@
 
 A comprehensive Django REST Framework (DRF) project that provides a public API to query and retrieve books from Project Gutenberg. The API supports flexible filtering, pagination, and downloadable book formats, with sorting based on popularity.
 
-
-<<img width="717" height="801" alt="Screenshot 2025-07-20 110342" src="https://github.com/user-attachments/assets/4d2641d3-9933-48fc-aa0c-c6c95ee2f4f2" />
-img width="1168" height="870" alt="Screenshot 2025-07-20 110326" src="https://github.com/user-attachments/assets/8a2b0431-018a-4b13-869a-5b647c2b4ba8" />
+<img width="1168" height="870" alt="Screenshot 2025-07-20 110326" src="https://github.com/user-attachments/assets/c8e24415-213e-42df-b3c2-f7827681de4c" />
+<img width="717" height="801" alt="Screenshot 2025-07-20 110342" src="https://github.com/user-attachments/assets/cdd6571a-a354-4701-9699-3aed3f7ce4a9" />
 
 ## 🌟 Features
 
@@ -65,8 +64,6 @@ The API provides a comprehensive filtering system with support for:
 - **Backend Framework**: Django 5.x
 - **API Framework**: Django REST Framework
 - **Database**: MySQL
-- **Database Driver**: PyMySQL or mysqlclient
-- **Admin Interface**: Django Admin with Bootstrap styling
 - **Authentication**: Django's built-in authentication system
 
 ## 📦 Installation
